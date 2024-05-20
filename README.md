@@ -1,7 +1,7 @@
 # Linera Series 2 Testnet
 
 <h1 align="center"> Quest 1 </h1>
-> follow my [tweet](https://x.com/0xMoei/status/1788980488658423978) structures for Quest-1 besides running these codes
+> follow my tweet (https://x.com/0xMoei/status/1788980488658423978) structures for Quest-1 besides running these codes
 
 ```console
 # install dependecies
@@ -29,7 +29,7 @@ linera project test
 ```
 
 <h1 align="center"> Quest 3 </h1>
-> follow my [tweet](https://x.com/0xMoei/status/1792308140936994832) structures for Quest-2 & Quest-3 besides running these codes
+> follow my tweet (https://x.com/0xMoei/status/1792308140936994832) structures for Quest-2 & Quest-3 besides running these codes
 
 ```console
 # install dependecies
