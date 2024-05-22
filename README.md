@@ -35,6 +35,7 @@ linera project test
 # install dependecies
 rustup target add wasm32-unknown-unknown
 sudo apt-get install g++ libclang.dev libssl-dev protobuf-compiler
+sudo apt install unzip
 
 # install linera protoc-buffer
 curl -LO https://github.com/protocolbuffers/protobuf/releases/download/v21.11/protoc-21.11-linux-x86_64.zip
