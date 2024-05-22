@@ -5,7 +5,7 @@
 
 ```console
 # install dependecies
-sudo apt-get install g++ libclang.dev libssl-dev protobuf-compiler
+sudo apt-get install build-essential g++ libclang.dev libssl-dev protobuf-compiler
 
 # install rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -34,7 +34,7 @@ linera project test
 ```console
 # install dependecies
 rustup target add wasm32-unknown-unknown
-sudo apt-get install g++ libclang.dev libssl-dev protobuf-compiler
+sudo apt-get install build-essential g++ libclang.dev libssl-dev protobuf-compiler
 sudo apt install unzip
 
 # install linera protoc-buffer
