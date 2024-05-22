@@ -66,6 +66,9 @@ linera project publish-and-create \
 
 # run app
 linera service
+
+# you can use --port xxxx if you wanna run it on a custom port
+linera service --port 8085
 ```
 > Once that’s done, open up a new window in your browser and visit the URL http://localhost:8080/ (it can be 8081 if 8080 is busy in your system)
 
