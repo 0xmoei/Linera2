@@ -59,7 +59,7 @@ cd meta-fungible-app-tutorial
 # replace your fungible-app-id
 export FUNGIBLE_APP_ID=REPLACE-WITH-YOUR-FUNGIBLE-APP-ID
 
-# create app
+# create app (it's all 1 command, copy them all)
 linera project publish-and-create \
 --required-application-ids $FUNGIBLE_APP_ID \
 --json-parameters "\"$FUNGIBLE_APP_ID\""
